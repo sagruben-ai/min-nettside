@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gotisk Smykke",
+    "description": "Elegant halskjede med kryss-design.",
+    "image": "https://images.unsplash.com/photo-1606813905161-3e6a84c58571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "paypalId": "DIN_BUTTON_ID_1"
+  },
+  {
+    "name": "Luksus T-skjorte",
+    "description": "Mørk t-skjorte med ikoniske detaljer.",
+    "image": "https://images.unsplash.com/photo-1598300059005-0cb3b0b7a1c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "paypalId": "DIN_BUTTON_ID_2"
+  },
+  {
+    "name": "Limited Edition Ring",
+    "description": "Håndlaget ring med gotiske detaljer.",
+    "image": "https://images.unsplash.com/photo-1616628183951-2d6bbdfd2e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "paypalId": "DIN_BUTTON_ID_3"
+  }
+]
